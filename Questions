@@ -1,0 +1,13 @@
+Retrieve the total number of orders placed.
+Calculate the total revenue generated from pizza sales.
+List the pizza type id, category and name, but the name should be in uppercase and category should only be "Classic".
+Identify the most common pizza size ordered.
+To retrieve the top 10 highest revenue-generating order dates based on total sales.
+
+On which 5 days did the restaurant generate the highest revenue.
+Determine the distribution of orders by hour of the day.
+Group the orders by date and calculate the average number of pizzas ordered per day.
+Determine the top 3 most ordered pizza types based on revenue.
+
+Calculate the percentage contribution of each pizza type to total revenue.
+Analyze the cumulative revenue generated over time.
